@@ -12,7 +12,7 @@ category_map = {
     ".txt" : "Documents",
     ".docs" : "Documents",
     ".doc" : "Documents",
-    "mp3" : "Audio",
+    ".mp3" : "Audio",
     ".wav" : "Audio",
     ".csv" : "Spreadsheets",
     ".xlsx" : "Spreadsheets",

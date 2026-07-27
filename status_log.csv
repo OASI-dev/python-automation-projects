@@ -1,0 +1,4 @@
+url,status_code,response_time,result,timestamp
+https://google.com,200,0.41,UP,2026-07-27 19:57:43
+https://github.com,200,0.25,UP,2026-07-27 19:57:43
+https://fakesite123456789.com,N/A,N/A,DOWN,2026-07-27 19:57:44
